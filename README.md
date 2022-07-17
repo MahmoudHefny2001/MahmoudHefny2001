@@ -2,8 +2,7 @@
 - My name is Mahmoud
 - I am currently 3rd year CS student
 - I am a junior back-end developer
-<!--
-**MahmoudHefny2001/MahmoudHefny2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- EDited file
 
 Here are some ideas to get you started:
 
@@ -15,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
