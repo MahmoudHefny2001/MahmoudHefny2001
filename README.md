@@ -1,7 +1,7 @@
 ### Hi there 👋
-  My name is Mahmoud
-  I am currently 3rd year CS student
-  I am a junior back-end developer
+- My name is Mahmoud
+- I am currently 3rd year CS student
+- I am a junior back-end developer
 <!--
 **MahmoudHefny2001/MahmoudHefny2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
