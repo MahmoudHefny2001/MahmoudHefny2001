@@ -3,7 +3,7 @@
 
 - I’m looking to collaborate on any new Backend Projects
 - I am currently a 3rd year CS student
-- I am a junior back-end developer
+- I am a junior Back-End developer
 - Reach me at: <hefny4@gmail.com>
 - I love coding 
 
