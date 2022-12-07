@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hefny</h1>
 <h3 align="center">A passionate Back-End developer from Egypt</h3>
 
-- I’m looking to collaborate on any new Backend Projects
+- I’m looking to collaborate on any Backend Project
 - I am currently a 3rd year CS student
 - I am a junior Back-End developer
 - Reach me at: <hefny4@gmail.com>
