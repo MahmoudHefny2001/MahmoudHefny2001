@@ -26,6 +26,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Hefny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Hefny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Hefny's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MahmoudHefny2001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -35,9 +39,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MahmoudHefny2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
