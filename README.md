@@ -35,4 +35,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MahmoudHefny2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
