@@ -22,6 +22,11 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MahmoudHefny2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -29,7 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MahmoudHefny2001&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MahmoudHefny2001&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
