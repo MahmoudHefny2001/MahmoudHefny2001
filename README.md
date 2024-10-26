@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Back-End developer from Egypt</h3>
 
 - I’m looking to collaborate on any Backend Project
-- I am currently a senior year CS student
-- I am a junior Back-End developer
+- CS student
+- I am a Back-End developer
+- Cloud Enthusiast
 - Reach me at: <hefny4@gmail.com>
 - I love coding 
 
