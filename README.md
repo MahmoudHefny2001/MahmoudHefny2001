@@ -210,14 +210,37 @@ I’m highly interested in:
 
 # 📊 GitHub Analytics
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudHefny2001&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudHefny2001&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudHefny2001&theme=tokyonight" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudHefny2001&theme=tokyonight" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudHefny2001&theme=tokyonight" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoudHefny2001&theme=tokyonight&utcOffset=2" 
+  />
 </p>
 
 ---
