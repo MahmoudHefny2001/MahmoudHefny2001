@@ -212,9 +212,9 @@ I’m highly interested in:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&layout=compact&theme=tokyonight&hide_border=true)
 
 </p>
 
