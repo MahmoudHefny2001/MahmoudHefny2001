@@ -210,15 +210,11 @@ I’m highly interested in:
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudHefny2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHefny2001&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=tokyonight&hide_border=true)
-
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudHefny2001&theme=tokyonight&hide_border=true"/>
